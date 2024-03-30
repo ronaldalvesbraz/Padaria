@@ -1,0 +1,85 @@
+body{
+margin: 0 auto;
+font-size: 30px;
+font-weight: bold;
+font-style: italic;
+
+
+
+}
+head{
+
+ display: flex;
+ flex-direction: row;
+ justify-content: space-between;
+}
+
+#container{
+   background-color: rgb(205, 158, 39);
+}
+
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-size: 30px;
+}
+
+img {
+width: 150px;
+height: 160px;
+max-width: 1200px;
+margin: 0 auto;
+
+
+}
+
+#comeco h1{
+    font-family: Arial, Helvetica, sans-serif;
+ float: right;
+ color: rgb(212, 169, 25);
+
+}
+
+#segundo{
+
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(216, 152, 32);
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#container h1{
+color: rgb(255, 255, 255);
+ font-family: Arial, Helvetica, sans-serif;
+}
+
+#terceiro img{
+    width: 90px;  
+    height: 110px;
+
+}
+
+
+
+
+
+#comeco h1{
+
+    float: right;
+font-family: Arial, Helvetica, sans-serif;
+color: rgb(219, 157, 23);
+}
+
+
+
+
+
